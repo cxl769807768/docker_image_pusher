@@ -1,2 +1,2 @@
-mysql
+nginx
 --platform=linux/amd64
