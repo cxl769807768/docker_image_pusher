@@ -1,2 +1,1 @@
-mysql:8.0.30
---platform=linux/amd64
+redis:7.2-alpine
