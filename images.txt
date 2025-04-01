@@ -1,2 +1,2 @@
-nginx:1.26
+mysql:8.0.30
 --platform=linux/amd64
